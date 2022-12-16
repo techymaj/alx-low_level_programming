@@ -11,12 +11,12 @@ int main(void)
 {
 	int n;
 
-	srand(time(0));
-	n = rand() - RAND_MAX / 2;
-
 	int d;
 
 	int l;
+
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
 
 	d = n % 10;
 	l = d;

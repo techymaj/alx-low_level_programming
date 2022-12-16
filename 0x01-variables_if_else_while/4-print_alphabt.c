@@ -14,7 +14,7 @@ int main(void)
 		{
 			continue;
 		}
-		else if (i == 123)
+		else if (i == 113)
 		{
 			continue;
 		}

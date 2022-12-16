@@ -12,6 +12,8 @@ int main(void)
 	while (i < 123)
 	{
 		putchar(i);
+		if (i == 122)
+			putchar('\n');
 		i++;
 	}
 	return (0);

@@ -7,8 +7,6 @@
   */
 int main(void)
 {
-	char letter;
-
 	int i = 97;
 
 	while (i < 123)

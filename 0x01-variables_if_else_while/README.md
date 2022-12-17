@@ -7,4 +7,5 @@
 [5. Numbers]         
 [6. Numberz]         
 [7. Smile in the mirror]        
+[8. Hexadecimal]() Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.         
 

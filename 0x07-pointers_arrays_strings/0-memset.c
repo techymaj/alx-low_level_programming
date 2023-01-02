@@ -2,8 +2,10 @@
 
 /**
   * _memset.c: Fills memory with a constant byte
-  * 
-  * Return: Pointer
+  * @a: Memory area to be filled
+  * @b: The constant byte
+  * @n: Number of times to copy b
+  * Return: Pointer to the memory area a
   *
   */
 
